@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: antiquewhite;
+}
+
+article {
+    margin-bottom: 30px;
+}
+h1 {
+    font-family: "Arial", sans-serif;
+    font-size: 36px;
+    color: pink; 
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+p {
+    font-size: 18px;
+    color: #888; 
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+}
+
+img{
+    max-width: 50%;
+    height: auto;
+    margin: 20px 0;
+    align-items: center;
+}
+
+h2{
+    color: palevioletred; 
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: 200%;
+    text-align: center;
+    color: rgba(143, 78, 78, 0.877);
+}

@@ -7,7 +7,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: antiquewhite;
+    background-color: rgb(215, 128, 96);
 }
 
 article {
